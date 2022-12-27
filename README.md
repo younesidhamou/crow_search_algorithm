@@ -1,2 +1,2 @@
 # crow_search_algorithm
-crow search algorithm for selecting optimal hyper-parameters
+Optimization of hyperparameters of machine learning algorithms using Crow Search Algorithm for diabetes prediction
